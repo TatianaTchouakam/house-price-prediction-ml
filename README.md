@@ -2,6 +2,10 @@
 
 An end-to-end Machine Learning project for predicting housing prices using Python and Scikit-learn.
 
+## 🚧 Project Status
+**Work in Progress.**  
+The final prediction interface and additional model optimization steps are currently under development as part of my Data Science & AI training.
+
 ## 📌 Project Overview
 
 This project explores a real-world housing dataset and demonstrates the complete machine learning workflow:
@@ -37,9 +41,6 @@ This project explores a real-world housing dataset and demonstrates the complete
 - Cross-validation
 - Machine Learning pipelines
 
-## 🚧 Project Status
-**Work in Progress.**  
-The final prediction interface and additional model optimization steps are currently under development as part of my Data Science & AI training.
 
 ## 👩‍💻 Author
 **Tatiana Tchouakam Chouacheu**  
